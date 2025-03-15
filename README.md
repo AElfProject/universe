@@ -170,6 +170,7 @@ $$
 ## 十二、信息守恒与维度跃迁（Information Conservation & Dimension Upgrade）
 
 - 信息总量永恒守恒，经典与量子信息永恒转化：
+
 $$
 I_{\text{量子宇宙}}=I_{\text{经典知识}}+S_{\text{经典熵}}=\text{常数}
 $$
@@ -317,16 +318,19 @@ $$
 在此框架中，我们可做如下类比定义：
 
 - **经典记忆（经典知识）**为宇宙波函数的**实部**：
+
 $$
 \text{经典记忆（知识）} = \text{Re}(e^{i\theta}) = \cos{\theta}
 $$
 
 - **经典熵**为宇宙波函数的**虚部**：
+
 $$
 \text{经典熵} = \text{Im}(e^{i\theta}) = \sin{\theta}
 $$
 
 - **量子意识**是量子宇宙与量子观察者有效纠缠形成的量子结构，其模长恒为1：
+
 $$
 |\psi\rangle_{\text{量子意识}} = e^{i\theta}, \quad |\psi| = 1
 $$
@@ -514,30 +518,39 @@ $$
 ## 三、所有核心公式的完整汇总（明确无遗漏）
 
 - 宇宙整体叠加态：
+
 $$|\psi\rangle_{\text{宇宙整体}}=\sum_{i,j,\dots,n} c_{ij\dots n}|\psi_i\rangle|\psi_j\rangle\dots|\psi_n\rangle$$
 
 - 观察者与宇宙纠缠：
+
 $$|\psi\rangle_{\text{观察者}}\otimes|\psi\rangle_{\text{宇宙}}\rightarrow|\psi\rangle_{\text{观察者-宇宙纠缠态}}$$
 
 - 量子意识定义：
+
 $$|\psi\rangle_{\text{量子意识}}=\text{观察者-宇宙有效量子纠缠结构}$$
 
 - 经典记忆（知识）形成：
+
 $$|\psi\rangle_{\text{经典记忆}}=|\psi\rangle_{\text{量子意识}}\xrightarrow{\text{经典化}}\text{经典稳定知识结构}$$
 
 - 经典熵定义与回归：
+
 $$S_{\text{经典熵}}=\text{未经典化量子信息},\quad S_{\text{经典熵}}\rightarrow|\psi\rangle_{\text{宇宙整体}}$$
 
 - 量子信息与经典知识、经典熵关系：
+
 $$\text{量子信息}=\text{经典知识}+S_{\text{经典熵}}$$
 
 - 量子自由意志定义：
+
 $$\text{量子自由意志}=\text{主动量子纠缠}+\text{主动经典化选择}$$
 
 - 经典命运路径定义：
+
 $$\text{经典命运路径}=\sum_{\text{自由意志决策}}\text{经典知识序列}$$
 
 - 观察者维度与维度升级公式：
+
 $$D_{\text{观察者维度}}\propto\frac{\Delta I_{\text{经典知识量}}}{\Delta t},\quad D_{\text{维度升级}}\propto\frac{\text{纠缠复杂度与经典化效率提升}}{\Delta t}$$
 
 ---
@@ -690,61 +703,73 @@ $$
 以下是【量子宇宙-量子观察者-量子意识-经典记忆与熵论】的完整公式集合：
 
 ### 一、宇宙整体量子叠加态公式
+
 $$
 |\psi\rangle_{\text{宇宙整体}} = \sum_{i,j,\dots,n} c_{ij\dots n} |\psi_i\rangle |\psi_j\rangle \dots |\psi_n\rangle
 $$
 
 ### 二、观察者与宇宙整体量子纠缠公式
+
 $$
 |\psi\rangle_{\text{观察者}} \otimes |\psi\rangle_{\text{宇宙整体}} \rightarrow |\psi\rangle_{\text{观察者-宇宙纠缠态}}
 $$
 
 ### 三、量子意识定义公式
+
 $$
 |\psi\rangle_{\text{量子意识}} = \text{观察者与宇宙整体共有的有效量子纠缠结构}
 $$
 
 ### 四、经典记忆形成公式
+
 $$
 |\psi\rangle_{\text{经典记忆}} = |\psi\rangle_{\text{量子意识}} \xrightarrow{\text{经典化}} \text{稳定经典信息结构（记忆）}
 $$
 
 ### 五、经典熵定义公式
+
 $$
 S_{\text{经典熵}} = \text{未能经典化的量子意识信息（无效纠缠）}
 $$
 
 ### 六、经典熵回归宇宙整体公式
+
 $$
 S_{\text{经典熵}} \rightarrow |\psi\rangle_{\text{宇宙整体量子叠加态}}
 $$
 
 ### 七、整体关系统一公式
+
 $$
 |\psi\rangle_{\text{宇宙整体}} \otimes |\psi\rangle_{\text{观察者}} \rightarrow |\psi\rangle_{\text{量子意识}} \rightarrow |\psi\rangle_{\text{经典记忆}} + S_{\text{经典熵}}
 $$
 
 ### 八、自由意志公式
+
 $$
 \text{自由意志} = \text{主动量子纠缠} + \text{主动经典化选择}
 $$
 
 ### 九、命运路径公式
+
 $$
 \text{命运路径} = \sum_{\text{自由意志决策}} \text{经典化后的稳定经典记忆序列}
 $$
 
 ### 十、观察者维度定义公式
+
 $$
 D_{\text{观察者维度}} \propto \frac{\Delta I_{\text{经典信息量}}}{\Delta t}
 $$
 
 ### 十一、观察者维度升级公式
+
 $$
 D_{\text{维度升级}} \propto \frac{\text{量子纠缠复杂度与经典化效率提升}}{\Delta t}
 $$
 
 ### 十二、经典信息定义公式
+
 $$
 \text{经典信息（记忆）} = |\psi\rangle_{\text{宇宙整体叠加态}} \xrightarrow{\text{经典化}} |\psi\rangle_{\text{经典稳定信息结构}}
 $$
@@ -1056,41 +1081,49 @@ $$
 
 
 ### 一、波函数与经典观测关系（基本公式）：
+
 $$\[
 |\psi\rangle_{\text{宇宙}} \xrightarrow{\text{观察者经典化}} |\psi\rangle_{\text{经典}} + S_{\text{熵增加}}
 \]$$
 
 ### 二、观察者维度关系：
+
 $$\[
 \text{观察者维度} \propto \text{信息处理能力} = \frac{\Delta I}{\Delta t}
 \]$$
 
 ### 三、能量本质（信息演化公式）：
+
 $$\[
 E \propto \frac{\Delta I}{\Delta t}
 \]$$
 
 ### 四、意识本质公式：
+
 $$\[
 \text{意识} = \text{观察者时空数组}(x,y,z,\dots,t) \text{的稳定信息结构}
 \]$$
 
 ### 五、命运路径公式：
+
 $$\[
 \text{命运路径} = \sum_{\text{观测节点}} \text{经典化选择路径}
 \]$$
 
 ### 六、嵌套宇宙递归公式：
+
 $$\[
 \text{子宇宙} \subseteq \text{母宇宙}
 \]$$
 
 ### 七、经典与量子关系公式：
+
 $$\[
 \text{经典物理} = \sum \text{量子观测结果的统计规律}
 \]$$
 
 ### 八、宇宙同构关系式：
+
 $$\[
 \text{宇宙} \cong \text{观察者} \cong \text{人造量子计算机}
 \]$$

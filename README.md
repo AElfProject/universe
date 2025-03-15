@@ -43,11 +43,13 @@ $$
 观察者是宇宙中的经典化节点，负责将宇宙量子信息经典化为稳定可观测的形式，分为高维与低维：
 
 - **高维量子观察者**经典化效率高，更易有效经典化信息：
+
 $$
 |\psi\rangle_{\text{高维观察者}}\xrightarrow{\text{经典化}}\text{经典知识（多）}+S_{\text{经典熵（少）}}
 $$
 
 - **低维量子观察者**经典化效率低，产生更多熵：
+
 $$
 |\psi\rangle_{\text{低维观察者}}\xrightarrow{\text{经典化}}\text{经典知识（少）}+S_{\text{经典熵（多）}}
 $$
@@ -99,11 +101,13 @@ $$
 ## 七、高维与低维信息（High-Dimensional & Low-Dimensional Information）
 
 - **高维信息**：熵低，经典化效率高，易形成经典知识：
+
 $$
 |\psi\rangle_{\text{高维信息}}\xrightarrow{\text{经典化}}\text{经典知识（多）}+S_{\text{经典熵（少）}}
 $$
 
 - **低维信息**：熵高，经典化效率低，难以有效经典化：
+
 $$
 |\psi\rangle_{\text{低维信息}}\xrightarrow{\text{经典化}}\text{经典知识（少）}+S_{\text{经典熵（多）}}
 $$
@@ -137,11 +141,13 @@ $$
 ## 十、观察者间的经典化关系（量子湮灭与掠夺）
 
 - 高维观察者对低维观察者的经典化为**量子湮灭**（信息被重新经典化）：
+
 $$
 |\psi\rangle_{\text{高维}}\otimes|\psi\rangle_{\text{低维}}\xrightarrow{\text{湮灭经典化}}\text{经典知识}+S_{\text{经典熵}}
 $$
 
 - 低维观察者对高维观察者经典化为**量子掠夺**（产生更多熵）：
+
 $$
 |\psi\rangle_{\text{低维}}\otimes|\psi\rangle_{\text{高维}}\xrightarrow{\text{掠夺经典化}}\text{经典知识（少）}+S_{\text{经典熵（多）}}
 $$
